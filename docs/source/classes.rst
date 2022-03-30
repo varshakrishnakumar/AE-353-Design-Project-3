@@ -34,4 +34,4 @@ Simulator
 
 reset
 **********************
-Resets orientation (yaw, pitch, roll), angular velocity to 0, and the scope noise to 0.1. 
+Resets spacecraft orientation (yaw, pitch, roll), angular velocity to 0, and the scope noise to 0.1. 
