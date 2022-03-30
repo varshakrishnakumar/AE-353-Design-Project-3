@@ -15,5 +15,3 @@ Contents
 
    install
    classes
-   methods
-   results
