@@ -19,7 +19,7 @@ run
 *Inputs*: 
 
 *  t: Current time (s)
-*  star_meas: 1D array of length 14. Contains the image coordinates y_i and z_i of the i'th star at indeces 2i and 2(i + 1) respectively. 
+*  star_meas: 1D array of length 14. Contains the image coordinates $y_i$ and $z_i$ of the i'th star at indices $2i$ and $2(i + 1)$ respectively. 
 
 *Outputs*:
 
