@@ -12,7 +12,7 @@ Controller
 
 reset
 **********************
-Resets data of controller by setting state estimate to a 6x1 array of zeros.
+Resets data of controller by setting the state estimate to a 6x1 array of zeros.
 
 run
 **********************
