@@ -1,6 +1,6 @@
 Spacecraft with Star Tracker
 ==================================
-Designing and implementing a Spacecraft with a star tracker
+Designing and implementing a spacecraft with a star tracker
 
 *Version March 2022*
 
