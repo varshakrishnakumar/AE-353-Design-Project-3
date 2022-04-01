@@ -12,14 +12,14 @@ Controller
 
 reset
 **********************
-Resets data of controller by setting state estimate to a 6x1 array of zeros.
+Resets data of controller by setting the state estimate to a 6x1 array of zeros.
 
 run
 **********************
 *Inputs*: 
 
 *  t: Current time (s)
-*  star_meas: 1D array of length 14. Contains the image coordinates y_i and z_i of the i'th star at indeces 2i and 2(i + 1) respectively. 
+*  star_meas: 1D array of length 14. Contains the image coordinates :math:`y_i` and :math:`z_i` of the *i*'th star at indices :math:`2i` and :math:`2(i + 1)` respectively. 
 
 *Outputs*:
 
